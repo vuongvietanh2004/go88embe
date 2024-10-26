@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "name":"DolaTrump House",
+        "title":"Ngôi nhà được sáng tạo bởi Mesi and CR7.",
+        "price":1000000,
+        "location":"USA in VietNam univercity",
+        "category": "Free",
+        "image":"https://img.freepik.com/free-photo/luxurious-villa-with-modern-architectural-design_23-2151694124.jpg?t=st=1729936516~exp=1729940116~hmac=7efbe58b21cfc3848c53e544f49ab1cc87b1c8c398169c1ca932db8bdebb7c72&w=740"
+    },
+    {
+        "id":2,
+        "name":"Choang House",
+        "title":"Ngôi nhà xếp top2 world cho người tự kỉ.",
+        "price":2357390,
+        "location":"Dubai in VietNam univercity",
+        "category": "Free",
+         "image":"https://img.freepik.com/free-photo/luxurious-villa-with-modern-architectural-design_23-2151694071.jpg?t=st=1729862565~exp=1729866165~hmac=3f4f09d2cf4b34a96fdae29aab41d780877ac7c4d306be503490bc9d34c40da3&w=740"
+    },
+    {
+        "id":3,
+        "name":"SunWin House",
+        "title":"Ngôi nhà mới được phát triển khi.",
+        "price":999999990,
+        "location":"China in VietNam univercity",
+        "category": "Free",
+        "image":"https://img.freepik.com/free-photo/hawaii-landscape-with-digital-art-style_23-2151793534.jpg?t=st=1729937472~exp=1729941072~hmac=826c4c5283bf646403108dd9e68f2d994454aa0c9149ea634e7ff1318373dee6&w=740"
+    },
+    {
+        "id":4,
+        "name":"Đất Vân Tiên",
+        "title":"Thích hợp cho những tu tiên giả .",
+        "price":999999999999,
+        "location":"Hoa quả sơn in Tây thiên",
+        "category": "Free",
+        "image":"https://img.freepik.com/free-photo/natural-rock-formations-landscape_23-2151723073.jpg?t=st=1729937391~exp=1729940991~hmac=15158dfaf053c14bc6f773ac750b9fb79c4c12bb3ad9922831d7fbf480e4a4a5&w=740"
+    },
+    {
+        "id":5,
+        "name":"Đất Phong Thủy",
+        "title":"Mảnh đất có quanh cảnh đẹp.",
+        "price":686868680,
+        "location":"Núi tokyo in VietNam",
+        "category": "Free",
+        "image":"https://img.freepik.com/free-photo/view-land-plot-real-estate-business-development_23-2149916736.jpg?t=st=1729937650~exp=1729941250~hmac=caa1e138773466d622c2ce9e49deb998f2373cd9a8e2f0e21a62fdaf0f0ba40a&w=740"
+    },
+    {
+        "id":6,
+        "name":"Đất đô thị",
+        "title":"Mảnh đất trung tâm thủ đô Vietnam.",
+        "price":123456650,
+        "location":"Made in HaNoi",
+        "category": "Free",
+        "image":"https://img.freepik.com/free-photo/cityscape-wuxi_1127-4022.jpg?t=st=1729937811~exp=1729941411~hmac=2190b50084b9d26993e23c57f57797608871f69875374304405de89fdd759635&w=740"
+    }
+]
